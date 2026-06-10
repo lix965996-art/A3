@@ -22,3 +22,8 @@ Thumbs.db
 DeepTutor-main/
 edu-agent-master/
 gen-mentor-main/
+
+# 内部开发文件
+.claude/
+CLAUDE.md
+AGENTS.md
