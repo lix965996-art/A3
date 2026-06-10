@@ -1,0 +1,24 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+node_modules/
+.next/
+dist/
+*.egg-info/
+.pytest_cache/
+data/
+*.sqlite3
+*.tsbuildinfo
+*.log
+.vscode/
+.idea/
+*.pyc
+.DS_Store
+Thumbs.db
+
+# 参考项目（太大，不放仓库）
+DeepTutor-main/
+edu-agent-master/
+gen-mentor-main/
